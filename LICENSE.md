@@ -1,6 +1,6 @@
 # License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2026 [Your GitHub Handle]
+Copyright (c) 2026 xorace7701
 
 This work (**"Hyrule Restoria"** and **"The Prime Downfall & Multiverse Theory"**) is an unofficial, non-commercial fan analysis, worldbuilding critique, and archaeogaming reconstruction created for community scholarship and discussion.
 
@@ -15,7 +15,7 @@ This work (**"Hyrule Restoria"** and **"The Prime Downfall & Multiverse Theory"*
 
 ## Under the following terms:
 
-- **Attribution (BY)** — You must give appropriate credit to **[Your GitHub Handle]**, provide a link to the original GitHub repository, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
+- **Attribution (BY)** — You must give appropriate credit to **xorace7701**, provide a link to the original GitHub repository, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
 - **NonCommercial (NC)** — You may not use the material for commercial purposes, sell copies of these documents, or lock them behind paid paywalls.
 - **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
