@@ -10,61 +10,47 @@
 
 ## Overview
 
-**Hyrule Restoria** is an unofficial, non-commercial primary-canon reconstruction of *The Legend of Zelda* chronology from *Skyward Sword* through *Tears of the Kingdom*. 
+***Hyrule Restoria*** is a cross-disciplinary worldbuilding and lore encyclopedia auditing *The Legend of Zelda* strictly through **Primary In-Game Canon**—the physical geology, hydrology, architectural stratigraphy, material relic chains, and causal mechanics built directly into the games—alongside real-world natural-science and archaeological baselines.
 
-Rather than relying on external promotional timeline charts that rely on continent mergers, unflooded oceans, and arbitrary "what-if" hand-waves, this project audits the series through **archaeogaming**, **real-world natural sciences** (stratigraphy, geoarchaeology, hydrostatic physics, freshwater hydrology, and marine bio-erosion), **material relic typology**, and **causal physics** (Fixed Points in Superposition, closed causal loops, and multiverse entanglement).
-
-### Two Ways to Read
-1. **The Standalone Executive Monograph (`The_Prime_Downfall_and_Multiverse_Theory-v26.pdf`):** A complete, 12-page illuminated overview summarizing the core thesis, all ten scientific proofs against a flood, the Eight-Era Master Chronology, the Fallen Hero's Six-Item Arsenal, Dual-Reality *Majora's Mask*, and four master comparison tables.
-2. **The Multi-Volume Encyclopedia (`Hyrule_Restoria` — 8 Modular Volumes):** The full-length, unabridged expansion breaking down every scientific proof, archaeological case study, causal physics law, and all three timeline branches (**Prime Downfall Trunk**, **Parallel Adult Branch**, and **Parallel Child Branch**) in complete detail.
+While Nintendo's updated timeline chart acknowledges that King Rauru's founding era in *Tears of the Kingdom* is a **post-classic refounding** occurring after *A Link to the Past*, *The Legend of Zelda*, and *Zelda II: The Adventure of Link*, it still leaves an unresolved horizontal line attempting to merge three mutually exclusive branches. Using **ten natural-science proofs**, **Three Governing Laws of Causal Physics**, and **hereditary lineage tracking**, this archive demonstrates why Prime Hyrule never suffered *The Wind Waker*’s Great Flood—anchoring *Breath of the Wild* and *Tears of the Kingdom* strictly at the end of the single, unflooded **Prime Downfall Trunk**.
 
 ---
 
-## Core Pillars of the Reconstruction
+## Two Ways to Read
 
-* **Zero Great Sea Flood in Prime Hyrule:** Ten independent lines of physical evidence—from porous desert sandstone statues (*Seven Heroines*) with razor-sharp reliefs and zero marine bio-erosion on the Lomei Labyrinths to 100% pure freshwater inland rivers and uncorroded Sheikah Guardians—prove Prime Hyrule never sat beneath *The Wind Waker*’s ocean.
-* **The Three Governing Laws of the Multiverse:**
-  1. **Law I — One Outcome Per Timeline (Non-Convergence):** Parallel universes cannot physically fold their continents back into one landmass. *Breath of the Wild* and *Tears of the Kingdom* sit cleanly at the end of the unflooded **Prime Downfall Trunk**.
-  2. **Law II — The Unintentional Crushed Ocarina Lock:** Link carries both Saria’s ordinary wooden *Fairy Ocarina* (zero temporal magic) and Princess Zelda’s royal *Ocarina of Time* (carved from brittle crystalline Timeshift Stone). When Ganon strikes Link down at Ganon’s Tower, he unintentionally crushes the crystalline Ocarina as fatal collateral damage—preventing Zelda from rewinding the battle and locking the Prime Trunk forward.
-  3. **Law III — One Blade Per Era (Closed Causal Loop):** *Tears of the Kingdom*’s broken Master Sword travels backward strictly to King Rauru’s post-NES refounding era, keeping the surface blade completely untouched by duplicate-sword paradoxes across all classic games.
-* **Dual-Reality *Majora’s Mask* (Resolving the "Link Is Dead" Debate):** *Ocarina of Time*’s Ganon’s Tower clash acts as a **Fixed Point in Superposition** launching *Majora’s Mask* as one continuous soul-journey split across two mediums—a **pure physical journey** in the Child Branch (keeping *Twilight Princess* and the Hero’s Shade 100% intact) and a **Sacred Realm purgatory** in the Prime Downfall Trunk (where Skull Kid, carrying his own Lost Woods flute, mirrors Link’s own ten-year-old grief and lost childhood).
-* **Same Mechanical Law, Two Separate Events:** Distinguishes *Ocarina of Time*’s Ganon’s Tower split (six living Sages sealing Ganon into the Sacred Realm) from *The Wind Waker*’s Ganon’s Tower climax centuries later in the Adult Branch (where King Daphnes intercepts the Triforce wish and collapses the Goddesses' underwater stasis dome to wash Old Hyrule away forever).
+### 1. Executive Monograph (Quick Overview — 12 Pages)
+* **[`The_Prime_Downfall_and_Multiverse_Theory-v26.pdf`](./The_Prime_Downfall_and_Multiverse_Theory-v26.pdf)**  
+  A standalone, self-contained executive monograph covering all ten zero-flood natural-science proofs, the Eight-Era Prime Downfall chronology, custom vector schematics, and comparative branch tables in one sitting.
 
----
-
-## Repository Contents & Reading Order
-
-| Volume | File Name | Focus & Contents |
-| :--- | :--- | :--- |
-| **Executive Summary** | `The_Prime_Downfall_and_Multiverse_Theory-v26.pdf` | Standalone 12-page illuminated monograph covering the complete theory. |
-| **Master TOC** | `Hyrule_Restoria_Master_Table_of_Contents.pdf` | Complete structural blueprint across all five books and five appendices. |
-| **Prologue** | `Hyrule_Restoria_Prologue.pdf` | Archaeogaming methodology, Mainline Game-Canon Boundary, and Primary Fact (85%–90%) vs. Causal Inference (10%–15%) epistemology. |
-| **Book I** | `Hyrule_Restoria_Book_I-v2.pdf` | **The Physical Earth:** Ten natural science, stratigraphy, hydrostatic, and bio-erosion proofs against a flood. |
-| **Book II** | `Hyrule_Restoria_Book_II-v2.pdf` | **Causal Physics & Superposition:** The Three Governing Laws, seven hand-waved timeline fixes, and the twin Tower battles. |
-| **Book III** | `Hyrule_Restoria_Book_III-v2.pdf` | **The Prime Downfall Trunk:** Eight-Era unbroken chronology (*Skyward Sword* to *Tears of the Kingdom*), Fallen Hero’s relic seriation, and skeptic rebuttals. |
-| **Book IV** | `Hyrule_Restoria_Book_IV-v2.pdf` | **The Parallel Branches:** Complete breakdowns of the Adult Branch (*WW* → *PH* → *ST*) and Child Branch (*MM* → *TP* → *FSA*). |
-| **Book V** | `Hyrule_Restoria_Book_V-v2.pdf` | **Cosmology & Philosophy:** Dual-reality *Majora’s Mask*, Skull Kid as Link’s shadow-self, Sacred Realm mirror law, Gerudo sociology, Demise’s magnet, Saria’s spirit, and *mono no aware*. |
-| **Appendices** | `Hyrule_Restoria_Appendices.pdf` | **Appendices A–E:** Five master reference and cross-timeline verification tables. |
+### 2. *Hyrule Restoria* — Complete Multi-Volume Encyclopedia (`v1.1`)
+| Order | Volume / Supplement | Focus & Core Contents |
+| :---: | :--- | :--- |
+| **00** | **[`Hyrule_Restoria_Master_Table_of_Contents-v2.pdf`](./Hyrule_Restoria_Master_Table_of_Contents-v2.pdf)** | Complete architectural blueprint, volume index, and Unbroken Lineage Proof |
+| **01** | **[`Hyrule_Restoria_Prologue.pdf`](./Hyrule_Restoria_Prologue.pdf)** | Archaeogaming methodology, Game-Canon Boundary, and Tier 1 vs. Tier 2 epistemology |
+| **02** | **[`Hyrule_Restoria_Book_I-v2.pdf`](./Hyrule_Restoria_Book_I-v2.pdf)** | **The Physical Earth:** Ten zero-flood proofs, Seven Heroines sandstone vs. Great Sphinx, and Great Plateau stratigraphy |
+| **03** | **[`Hyrule_Restoria_Book_II-v2.pdf`](./Hyrule_Restoria_Book_II-v2.pdf)** | **Causal Physics:** Three Governing Laws, Fixed Point in Superposition, crushed crystalline Ocarina lock, and closed Master Sword loop |
+| **04** | **[`Hyrule_Restoria_Book_III-v2.pdf`](./Hyrule_Restoria_Book_III-v2.pdf)** | **The Prime Downfall Trunk:** Eras 1–8 chronology, Dampé’s Kakariko tomb Hookshot seriation, and Royal Armory continuity |
+| **05** | **[`Hyrule_Restoria_Book_IV-v2.pdf`](./Hyrule_Restoria_Book_IV-v2.pdf)** | **The Parallel Branches:** Dedicated chapters on the Adult and Child timelines plus the Master Cross-Branch Matrix |
+| **06** | **[`Hyrule_Restoria_Book_V-v2.pdf`](./Hyrule_Restoria_Book_V-v2.pdf)** | **Cosmology & Philosophy:** Dual-Reality *Majora’s Mask*, Skull Kid’s wooden flute, Sacred Realm mirror, and *mono no aware* |
+| **07** | **[`Hyrule_Restoria_Appendices.pdf`](./Hyrule_Restoria_Appendices.pdf)** | **Appendices A–E:** Master reference tables, relic lineages, and complete multiverse chronology |
+| **08** | **[`Hyrule_Restoria_Appendix_F.pdf`](./Hyrule_Restoria_Appendix_F.pdf)** | **Appendix F (`v1.1`):** Imprisoning War historical compression, collateral *Knights of Hyrule* lineage, cross-branch bloodline proof, and hardware scale abstraction |
 
 ---
 
-## Epistemological Standard
+## Core Pillars of the Framework
 
-To maintain strict scholarly transparency, all arguments across *Hyrule Restoria* are explicitly categorized into two tiers:
-* **Tier 1 — Direct Primary Evidence (~85%–90%):** Verifiable in-game architecture, carved stone monuments, dialogue, inventory mechanics, freshwater ecosystems, and real-world physical laws.
-* **Tier 2 — Reasoned Causal Inference (~10%–15%):** Logical off-screen bridges required by strict cause-and-effect (such as Ganon’s fatal blow shattering the brittle crystalline Ocarina of Time).
-
----
-
-## Citation & Attribution
-
-If you reference, discuss, or create video essays based on *Hyrule Restoria* or *The Prime Downfall & Multiverse Theory*, please credit **`xorace7701`** and link back to this repository under **CC BY-NC 4.0**.
-
-### Suggested Citation
-> `xorace7701`. (2026). *Hyrule Restoria: A Primary-Canon Reconstruction of The Legend of Zelda Multiverse* (v1.0). GitHub Repository.
+1. **Zero-Flood Geological & Hydrological Proof:** East Gerudo’s porous sandstone **Seven Heroines** retain sharp armor and sword-hilt carvings after tens of thousands of years without water fissures; inland basins remain 100% pure freshwater with zero marine bio-erosion or Great Sea monster fossils; and shattering *The Wind Waker*’s underwater stasis dome would have crushed Old Hyrule beneath abyssal hydrostatic pressure.
+2. **Non-Convergence & Superposition (Laws I–III):** Parallel branches remain physically distinct universes. Ganon unintentionally crushes the brittle crystalline *Ocarina of Time* atop Ganon’s Tower, locking the Prime Trunk forward, while *Tears of the Kingdom*’s shattered Master Sword travels back strictly to Rauru’s post-NES refounding—preventing duplicate blades across *ALttP*, *ALBW*, and the NES era.
+3. **Unbroken Hereditary Lineage Proof:** The hereditary **Knights of Hyrule** protector clan survives continuously from the Imprisoning War (*ALttP*) through Link’s Royal Guard family (*BotW*/*TotK*) exclusively on the unflooded Prime Trunk—vanishing completely in the Child Branch (*Twilight Princess*’s Ordon rancher) and rendered impossible by *The Wind Waker*’s Great Flood, which washed away all lineage records and left survivors scattered across isolated islands.
+4. **Dual-Reality *Majora’s Mask*:** Ganon’s Tower operates as a Fixed Point in Superposition launching two simultaneous *Majora’s Mask* journeys—a waking physical search in the Child Branch (preserving *Twilight Princess*’s Hero’s Shade) and a Sacred Realm purgatory threshold in the Prime Downfall Trunk.
 
 ---
 
-## Legal & Fan-Work Disclaimer
+## Citation & Fair Use Notice
 
-*Hyrule Restoria* and *The Prime Downfall & Multiverse Theory* are unofficial, non-commercial fan works created strictly for community discussion, literary analysis, and worldbuilding critique. They are not affiliated with, endorsed, sponsored, or approved by Nintendo. *The Legend of Zelda*, Hyrule, Triforce, Master Sword, and all related characters, names, and marks are registered trademarks of Nintendo.
+* **License:** All original text, analytical frameworks, and custom vector diagrams in this repository are licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International License (`CC BY-NC 4.0`)](./LICENSE.md)**. You are free to share, quote, and discuss this work for non-commercial purposes provided you credit **`[Your GitHub Handle]`** and link back to this repository.
+* **Trademark Disclaimer:** *The Legend of Zelda*, *Hyrule*, and all related characters, items, and game titles are trademarks of **Nintendo Co., Ltd.** This project is an independent, non-commercial work of fan scholarship and critical analysis and is not affiliated with or endorsed by Nintendo.
+
+<p align="center">
+  <a href="./extras/00_OoT_Prime_MM_Endings-v4.pdf" title="Listen... a quiet chime echoes through the Lost Woods...">🧚</a>
+</p>
