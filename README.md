@@ -2,7 +2,7 @@
 
 > *"When a later royal chronicle contradicts physical ruins on the ground, historians trust the physical artifacts over the incomplete storybook."*
 
-**Author:** `[Your GitHub Handle]`  
+**Author:** `xorace7701`  
 **Edition:** First Complete Modular Release (v1.0) & Companion Executive Monograph (v26)  
 **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -58,10 +58,10 @@ To maintain strict scholarly transparency, all arguments across *Hyrule Restoria
 
 ## Citation & Attribution
 
-If you reference, discuss, or create video essays based on *Hyrule Restoria* or *The Prime Downfall & Multiverse Theory*, please credit **`[Your GitHub Handle]`** and link back to this repository under **CC BY-NC 4.0**.
+If you reference, discuss, or create video essays based on *Hyrule Restoria* or *The Prime Downfall & Multiverse Theory*, please credit **`xorace7701`** and link back to this repository under **CC BY-NC 4.0**.
 
 ### Suggested Citation
-> `[Your GitHub Handle]`. (2026). *Hyrule Restoria: A Primary-Canon Reconstruction of The Legend of Zelda Multiverse* (v1.0). GitHub Repository.
+> `xorace7701`. (2026). *Hyrule Restoria: A Primary-Canon Reconstruction of The Legend of Zelda Multiverse* (v1.0). GitHub Repository.
 
 ---
 
