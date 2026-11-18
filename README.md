@@ -60,7 +60,7 @@ hyrule-restoria/
 ├── Hyrule_Restoria_Appendix_F-v2.pdf
 ├── Hyrule_Restoria_Appendix_G-v3.pdf
 ├── extras/
-│   ├── 00_OoT_Prime_MM_Endings-v4.pdf
+│   ├── 00_OoT_Prime_MM_Endings-v5.pdf
 │   ├── 01_Future_of_the_Tri_Universe.pdf
 │   └── Hyrule_Restoria_Tri_Universe_Poster.png
 └── archive/
@@ -78,7 +78,7 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 I
 ---
 
 <p align="center">
-  <em>"Hey! Listen!" — A lone light flickers in the Lost Woods...</em> <a href="./extras/00_OoT_Prime_MM_Endings-v4.pdf" title="Hidden Scroll I: Ocarina of Time Prime Ending & Majora's Mask Dual Outcomes">🧚</a>
+  <em>"Hey! Listen!" — A lone light flickers in the Lost Woods...</em> <a href="./extras/00_OoT_Prime_MM_Endings-v5.pdf" title="Hidden Scroll I: Ocarina of Time Prime Ending & Majora's Mask Dual Outcomes">🧚</a>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <em>Resting in the Sacred Grove, the Master Sword calls to you...</em> <a href="./extras/Hyrule_Restoria_Tri_Universe_Poster.png" title="Hidden Tapestry: The Tri-Universe Master Sword & Triforce Pedestal">🗡️</a>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
