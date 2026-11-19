@@ -62,6 +62,7 @@ hyrule-restoria/
 ├── extras/
 │   ├── 00_OoT_Prime_MM_Endings-v5.pdf
 │   ├── 01_Future_of_the_Tri_Universe.pdf
+│   ├── 02_Dark_Link_Mirror_Realm.pdf
 │   └── Hyrule_Restoria_Tri_Universe_Poster.png
 └── archive/
 ```
@@ -83,4 +84,6 @@ This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 I
   <em>Resting in the Sacred Grove, the Master Sword calls to you...</em> <a href="./extras/Hyrule_Restoria_Tri_Universe_Poster.png" title="Hidden Tapestry: The Tri-Universe Master Sword & Triforce Pedestal">🗡️</a>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="./extras/01_Future_of_the_Tri_Universe.pdf" title="Hidden Scroll II: Beyond the Curse — A Freed Fi & The Future of the Tri-Universe">🛡️</a>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <a href="./extras/02_Dark_Link_Mirror_Realm.pdf" title="Hidden Scroll III: The Water Temple Illusion Rift & The Corrupted Sacred Realm">💧</a>
 </p>
